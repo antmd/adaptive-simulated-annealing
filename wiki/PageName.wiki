@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+#labels Deprecated,Featured,Phase-Requirements
+Adaptive Simulated Annealing (ASA)
+
+= Introduction =
+
+Add your content here.
+
+Adaptive Simulated Annealing (ASA) is a C-language code developed to statistically find the best global fit of a nonlinear constrained non-convex cost-function over a D-dimensional space. This algorithm permits an annealing schedule for "temperature" T decreasing exponentially in annealing-time k, T = T_0 exp(-c k^1/D). The introduction of re-annealing also permits adaptation to changing sensitivities in the multi-dimensional parameter-space. This annealing schedule is faster than fast Cauchy annealing, where T = T_0/k, and much faster than Boltzmann annealing, where T = T_0/ln k.  ASA has over 100 OPTIONS to provide robust tuning over many classes of nonlinear stochastic systems.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+Note: Google Code has closed all new contributions of code as of mid-January 2014. The versions here should be considered deprecated. This project is still at:
+
+http://www.ingber.com AND http://alumni.caltech.edu/~ingber AND http://asa-caltech.sourceforge.net
