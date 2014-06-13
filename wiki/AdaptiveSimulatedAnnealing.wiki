@@ -16,4 +16,4 @@ http://alumi.caltech.edu/~ingber
 AND
 http://asa-caltech.sourceforge.net
 
-New versions may be added here under Source -> ASA as long as this is permitted.
+New versions may be added here under Source -> Browse -> ASA as long as this is permitted.
